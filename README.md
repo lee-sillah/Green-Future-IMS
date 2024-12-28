@@ -1,4 +1,4 @@
-# Green-Future-ims-connect/
+green-future-ims-connect/
 │
 ├── README.md
 ├── docs/
@@ -33,7 +33,7 @@
 │
 ├── deployment/
 │   ├── docker/
-│   ├── kubernetes/
+│   ├── Kubernetes/
 │
 └── tests/
     ├── frontend/
